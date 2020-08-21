@@ -1,0 +1,16 @@
+{
+  "HOMEPAGE": {
+    "WELCOME": "Welcome to React",
+    "BUTTON_LEARN": "Learn React",
+    "EDIT": "To get started, edit <1><0></0></1> and save to reload."
+  },
+  "FOOTER": {
+    "BACK_TOP": "Go to top",
+    "LANGUAGES": {
+      "ENGLISH": "en-US",
+      "BRAZIL": "pt-BR"
+    },
+    "COPYRIGHT": "© Copyright | 2019 Mystique JS."
+  },
+  "Welcome to React": "Welcome to React with react-i18next"
+}
